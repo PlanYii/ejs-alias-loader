@@ -1,0 +1,1 @@
+ejs webpack loader, Support webpack alias
